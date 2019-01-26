@@ -15,3 +15,15 @@ h2 {background-color:WhiteSmoke;
 h3{
   color:lightblue;
  }
+
+.center{
+  display:block;
+  margin-left:auto
+  margin-right:auto
+  width:50%
+}
+#first{
+  width：50%;
+  display:block;
+  mangin:0 auto;
+}
