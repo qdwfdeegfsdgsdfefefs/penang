@@ -1,0 +1,17 @@
+html，body {
+  background-color:lightyellow 
+  ;
+}
+
+h1 {
+ color: red;
+ text-align:center;
+ border:2px solid black;
+}
+
+h2 {background-color:WhiteSmoke;
+  color: orange
+}
+h3{
+  color:lightblue;
+ }
